@@ -1,0 +1,757 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\testfull.bundle.scp.css",
+      "PackagePath": "staticwebassets\\testfull.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\css\\all.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootsnav.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\carousel-ticker.css",
+      "PackagePath": "staticwebassets\\css\\css\\carousel-ticker.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\code_animate.css",
+      "PackagePath": "staticwebassets\\css\\css\\code_animate.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\css\\style.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\css\\css\\superslides.css",
+      "PackagePath": "staticwebassets\\css\\css\\superslides.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\AIR+JORDAN+1+MID+SE.png",
+      "PackagePath": "staticwebassets\\images\\AIR+JORDAN+1+MID+SE.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\AS+M+NK+CLUB+FT+OVERSIZED+PO+H.png",
+      "PackagePath": "staticwebassets\\images\\AS+M+NK+CLUB+FT+OVERSIZED+PO+H.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\AS+M+NSW+TEE+M90+OC+ONE+OFF.png",
+      "PackagePath": "staticwebassets\\images\\AS+M+NSW+TEE+M90+OC+ONE+OFF.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\AS+W+NSW+PHNX+FLC+QZ+CROP.png",
+      "PackagePath": "staticwebassets\\images\\AS+W+NSW+PHNX+FLC+QZ+CROP.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\CBF+M+NK+REISSUE+SS+JSY+EX2.png",
+      "PackagePath": "staticwebassets\\images\\CBF+M+NK+REISSUE+SS+JSY+EX2.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\JORDAN+TATUM+2+PF.png",
+      "PackagePath": "staticwebassets\\images\\JORDAN+TATUM+2+PF.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\NK+ACADEMY+-+FA24.png",
+      "PackagePath": "staticwebassets\\images\\NK+ACADEMY+-+FA24.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\NK+HERITAGE+S+WAISTPACK.png",
+      "PackagePath": "staticwebassets\\images\\NK+HERITAGE+S+WAISTPACK.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (1).jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (2).jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (2).jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (3).jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (3).jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (4).jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (4).jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (5).jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (5).jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (6).jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE (6).jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1MDSE\\AIR+JORDAN+1+MID+SE.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1NNSE\\back.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1NNSE\\back.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1NNSE\\bottom.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1NNSE\\bottom.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1NNSE\\clode.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1NNSE\\clode.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1NNSE\\detail.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1NNSE\\detail.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1NNSE\\front.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1NNSE\\front.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1NNSE\\onset.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\A1NNSE\\onset.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1NNSE\\side.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1NNSE\\side.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1NNSE\\top.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1NNSE\\top.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\back.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\back.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\bottom.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\bottom.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\close.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\close.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\detail.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\detail.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\front.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\front.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\hollow.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\hollow.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\lefthollow.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\lefthollow.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\side.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\side.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\sidehollow.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\sidehollow.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\A1S\\top.png",
+      "PackagePath": "staticwebassets\\images\\Product\\A1S\\top.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\ALX\\back.png",
+      "PackagePath": "staticwebassets\\images\\Product\\ALX\\back.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\ALX\\bottom.png",
+      "PackagePath": "staticwebassets\\images\\Product\\ALX\\bottom.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\ALX\\close.png",
+      "PackagePath": "staticwebassets\\images\\Product\\ALX\\close.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\ALX\\detail.png",
+      "PackagePath": "staticwebassets\\images\\Product\\ALX\\detail.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\ALX\\front of.png",
+      "PackagePath": "staticwebassets\\images\\Product\\ALX\\front of.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\ALX\\side.png",
+      "PackagePath": "staticwebassets\\images\\Product\\ALX\\side.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\ALX\\top.png",
+      "PackagePath": "staticwebassets\\images\\Product\\ALX\\top.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\AS+U+NK+SB+TEE+M90+TRAIN+MONIK.png",
+      "PackagePath": "staticwebassets\\images\\Product\\AS+U+NK+SB+TEE+M90+TRAIN+MONIK.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\B1998\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\B1998\\back.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\B1998\\close.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\B1998\\close.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\B1998\\front.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\B1998\\front.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\B1998\\logotee.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\B1998\\logotee.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\HeritageWaistpack\\back.png",
+      "PackagePath": "staticwebassets\\images\\Product\\HeritageWaistpack\\back.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\HeritageWaistpack\\close.png",
+      "PackagePath": "staticwebassets\\images\\Product\\HeritageWaistpack\\close.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\HeritageWaistpack\\detail.png",
+      "PackagePath": "staticwebassets\\images\\Product\\HeritageWaistpack\\detail.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\HeritageWaistpack\\fabric.png",
+      "PackagePath": "staticwebassets\\images\\Product\\HeritageWaistpack\\fabric.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\HeritageWaistpack\\front.png",
+      "PackagePath": "staticwebassets\\images\\Product\\HeritageWaistpack\\front.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\HeritageWaistpack\\side.png",
+      "PackagePath": "staticwebassets\\images\\Product\\HeritageWaistpack\\side.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\HeritageWaistpack\\style.png",
+      "PackagePath": "staticwebassets\\images\\Product\\HeritageWaistpack\\style.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\JFF\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\JFF\\back.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\JFF\\detail.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\JFF\\detail.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\JFF\\front.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\JFF\\front.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\JFF\\style.png",
+      "PackagePath": "staticwebassets\\images\\Product\\JFF\\style.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\MOH\\all.png",
+      "PackagePath": "staticwebassets\\images\\Product\\MOH\\all.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\MOH\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\MOH\\back.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\MOH\\close.png",
+      "PackagePath": "staticwebassets\\images\\Product\\MOH\\close.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\MOH\\close2.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\MOH\\close2.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\MOH\\detail.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\MOH\\detail.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\MOH\\side.png",
+      "PackagePath": "staticwebassets\\images\\Product\\MOH\\side.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSB\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\NSB\\back.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSB\\close.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\NSB\\close.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSB\\front.png",
+      "PackagePath": "staticwebassets\\images\\Product\\NSB\\front.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSB\\logodetail.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\NSB\\logodetail.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSB\\mix.png",
+      "PackagePath": "staticwebassets\\images\\Product\\NSB\\mix.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSB\\tagdetail.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\NSB\\tagdetail.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSPF\\back.png",
+      "PackagePath": "staticwebassets\\images\\Product\\NSPF\\back.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSPF\\backstyle.png",
+      "PackagePath": "staticwebassets\\images\\Product\\NSPF\\backstyle.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSPF\\close.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\NSPF\\close.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSPF\\item.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\NSPF\\item.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\NSPF\\style.png",
+      "PackagePath": "staticwebassets\\images\\Product\\NSPF\\style.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\Nikeacademyfootball\\back.png",
+      "PackagePath": "staticwebassets\\images\\Product\\Nikeacademyfootball\\back.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\Tatum2sidewalk\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\Tatum2sidewalk\\back.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\Tatum2sidewalk\\bottom.png",
+      "PackagePath": "staticwebassets\\images\\Product\\Tatum2sidewalk\\bottom.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\Tatum2sidewalk\\close.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\Tatum2sidewalk\\close.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\Tatum2sidewalk\\detail.png",
+      "PackagePath": "staticwebassets\\images\\Product\\Tatum2sidewalk\\detail.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\Tatum2sidewalk\\front.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\Tatum2sidewalk\\front.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\Tatum2sidewalk\\side.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\Tatum2sidewalk\\side.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\Product\\Tatum2sidewalk\\top.jpg",
+      "PackagePath": "staticwebassets\\images\\Product\\Tatum2sidewalk\\top.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\W+AF1+SHADOW.png",
+      "PackagePath": "staticwebassets\\images\\W+AF1+SHADOW.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\W+AIR+FORCE+1+'07+NN+SE.png",
+      "PackagePath": "staticwebassets\\images\\W+AIR+FORCE+1+'07+NN+SE.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\W+J+FLT+FLC+OPN+HM+PANT+WSH.png",
+      "PackagePath": "staticwebassets\\images\\W+J+FLT+FLC+OPN+HM+PANT+WSH.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\WMNS+AIR+FORCE+1+'07+LX.png",
+      "PackagePath": "staticwebassets\\images\\WMNS+AIR+FORCE+1+'07+LX.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\hinhnen.png",
+      "PackagePath": "staticwebassets\\images\\hinhnen.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\logonike.png",
+      "PackagePath": "staticwebassets\\images\\logonike.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\payment-icon\\1.png",
+      "PackagePath": "staticwebassets\\images\\payment-icon\\1.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\payment-icon\\2.png",
+      "PackagePath": "staticwebassets\\images\\payment-icon\\2.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\payment-icon\\3.png",
+      "PackagePath": "staticwebassets\\images\\payment-icon\\3.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\payment-icon\\5.png",
+      "PackagePath": "staticwebassets\\images\\payment-icon\\5.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\payment-icon\\7.png",
+      "PackagePath": "staticwebassets\\images\\payment-icon\\7.png"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\images\\thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb.jpg"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\baguetteBox.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\baguetteBox.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\js\\js\\bootsnav.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\js\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\js\\js\\contact-form-script.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\images-loded.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\images-loded.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\inewsticker.js",
+      "PackagePath": "staticwebassets\\js\\js\\inewsticker.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\isotope.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\jquery.superslides.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\jquery.superslides.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\js\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\học\\lthdt\\testfull\\testfull\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.testfull.props",
+      "PackagePath": "build\\testfull.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.testfull.props",
+      "PackagePath": "buildMultiTargeting\\testfull.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.testfull.props",
+      "PackagePath": "buildTransitive\\testfull.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.testfull.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

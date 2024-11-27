@@ -1,0 +1,371 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Font Awesome cho biểu tượng giỏ hàng -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #fff;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1 {
+        text-align: center; /* Căn giữa tiêu đề */
+        margin-top: 20px;
+        font-size: 28px;
+    }
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around; /* Giữa các sản phẩm phân cách đều */
+        padding: 20px;
+        gap: 20px; /* Thêm khoảng cách giữa các thẻ */
+    }
+
+    .product {
+        width: 230px; /* Định kích thước đồng đều cho các thẻ sản phẩm */
+        margin: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        overflow: hidden;
+        text-align: center;
+        background-color: #fff;
+        box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease-in-out;
+    }
+
+        .product:hover {
+            transform: scale(1.05); /* Hiệu ứng khi di chuột vào sản phẩm */
+        }
+
+        .product img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            height: 200px;
+        }
+
+    .product-info {
+        padding: 10px;
+    }
+
+    .product-title {
+        font-size: 14px;
+        color: #333;
+        margin: 10px 0;
+        font-weight: bold;
+        min-height: 40px; /* Cố định chiều cao tiêu đề để các sản phẩm đồng đều */
+    }
+
+    .product-price {
+        font-size: 16px;
+        color: #e74c3c;
+        margin: 5px 0;
+    }
+
+    .product-discount {
+        font-size: 12px;
+        color: #e74c3c;
+        margin: 5px 0;
+    }
+
+    .product-cart {
+        margin-top: 10px;
+    }
+
+        .product-cart button {
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 8px 15px;
+            cursor: pointer;
+            border-radius: 3px;
+            transition: background-color 0.3s ease;
+        }
+
+            .product-cart button:hover {
+                background-color: #555;
+            }
+
+            .product-cart button i {
+                margin-right: 5px;
+            }
+
+    /* Style cho phần tìm kiếm và banner */
+    .top-search .input-group {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .input-group input {
+        width: 400px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    .input-group-addon {
+        background-color: #333;
+        color: white;
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .cover-slides {
+        margin-top: 20px;
+        text-align: center;
+        padding: 100px 0;
+        background-size: cover;
+        color: white;
+        position: relative;
+    }
+
+        .cover-slides h1 {
+            font-size: 40px;
+            margin-bottom: 20px;
+        }
+
+        .cover-slides p {
+            font-size: 18px;
+        }
+
+    .btn.hvr-hover {
+        background-color: #333;
+        color: #fff;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 3px;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn.hvr-hover:hover {
+            background-color: #555;
+        }
+</style>
+
+<body>
+    <!-- Start Top Search -->
+    <div class="top-search">
+        <div class="container">
+            <div class="input-group">
+                <span class="input-group-addon"><i class="fa fa-search"></i></span>
+                <input type="text" class="form-control" placeholder="Search">
+                <span class="input-group-addon close-search"><i class="fa fa-times"></i></span>
+            </div>
+        </div>
+    </div>
+    <!-- End Top Search -->
+    <!-- Start Slider -->
+    <div id="slides-shop" class="cover-slides" style="background-image: url('@Url.Content("~/images/hinhnen.png")');">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-overlay">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Slider -->
+
+    <h1>Sản Phẩm Bán Chạy</h1>
+    <div class="container">
+        <!-- Sản phẩm 1 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="A1MIDSE" style="display: inline-block;">
+            <img alt="Air Jordan 1 Mid SE" src="~/images/air+jordan+1+mid+se.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Air Jordan 1 Mid SE</div>
+                <div class="product-price">3,959,000₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sản phẩm 2 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="ALX" style="display: inline-block;">
+            <img alt="Nike Air Force 1 '07 LX" src="~/images/WMNS+AIR+FORCE+1+'07+LX.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Nike Air Force 1 '07 LX</div>
+                <div class="product-price">3,519,000₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sản phẩm 3 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="MOH" style="display: inline-block;">
+            <img alt="Men's Oversized Hoodie" src="~/images/AS+M+NK+CLUB+FT+OVERSIZED+PO+H.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Men's Oversized French Terry Pullover Hoodie</div>
+                <div class="product-price">1,839,000₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sản phẩm 4 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="JFF" style="display: inline-block;">
+            <img alt="Jordan Flight Fleece" src="~/images/W+J+FLT+FLC+OPN+HM+PANT+WSH.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Jordan Flight Fleece</div>
+                <div class="product-price">1,799,199₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sản phẩm 5 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="A1S" style="display: inline-block;">
+            <img alt="Nike Air Force 1 Shadow" src="~/images/W+AF1+SHADOW.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Nike Air Force 1 Shadow</div>
+                <div class="product-price">3,829,000₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sản phẩm 6 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="Tatum2Sidewalk" style="display: inline-block;">
+            <img alt="Tatum 2 'Sidewalk Chalk' PF" src="~/images/JORDAN+TATUM+2+PF.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Tatum 2 'Sidewalk Chalk' PF</div>
+                <div class="product-price">3,669,000₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sản phẩm 7 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="NA1NNSE" style="display: inline-block;">
+            <img alt="Nike Air Force 1 '07 Next Nature SE" src="~/images/W+AIR+FORCE+1+'07+NN+SE.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Nike Air Force 1 '07 Next Nature SE</div>
+                <div class="product-price">2,815,199₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sản phẩm 8 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="B1988" style="display: inline-block;">
+            <img alt="Brazil 1998 Reissue" src="~/images/CBF+M+NK+REISSUE+SS+JSY+EX2.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Brazil 1998 Reissue</div>
+                <div class="product-price">3,419,000₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sản phẩm 9 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="NSB" style="display: inline-block;">
+            <img alt="Nike SB" src="~/images/product/as+u+nk+sb+tee+m90+train+monik.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Nike SB</div>
+                <div class="product-price">815,199₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sản phẩm 10 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="NSPF" style="display: inline-block;">
+            <img alt="Nike Sportswear Phoenix Fleece" src="~/images/AS+W+NSW+PHNX+FLC+QZ+CROP.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Women's Oversized 1/2-Zip Crop Sweatshirt</div>
+                <div class="product-price">1,739,000₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Sản phẩm 11 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="HeritageWaistpack" style="display: inline-block;">
+            <img alt="Nike Heritage Waistpack" src="~/images/NK+HERITAGE+S+WAISTPACK.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Heritage Waistpack</div>
+                <div class="product-price">639,000₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Sản phẩm 12 -->
+        <div class="product">
+            <a asp-controller="Product" asp-action="Nikeacademyfootball" style="display: inline-block;">
+            <img alt="Nike Academy Football" src="~/images/NK+ACADEMY+-+FA24.png" />
+            </a>
+            <div class="product-info">
+                <div class="product-title">Nike Academy Football</div>
+                <div class="product-price">819,000₫</div>
+                <div class="product-cart">
+                    <button>
+                        <i class="fas fa-shopping-cart"></i> Add to Cart
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+</body>

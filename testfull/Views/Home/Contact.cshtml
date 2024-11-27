@@ -1,0 +1,129 @@
+﻿<html>
+<head>
+    <title>Contact Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            padding: 50px;
+            gap: 20px; /* Add gap between the two sections */
+        }
+
+        .contact-info {
+            background-color: #e0e0e0;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 40%;
+        }
+
+        .get-in-touch {
+            background-color: #ffffff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 55%;
+        }
+
+            .contact-info h2, .get-in-touch h2 {
+                font-size: 24px;
+                margin-bottom: 20px;
+            }
+
+            .contact-info p, .get-in-touch p {
+                font-size: 14px;
+                line-height: 1.6;
+                color: #666666;
+            }
+
+        .contact-info ul {
+            list-style: none;
+            padding: 0;
+        }
+
+            .contact-info ul li {
+                margin-bottom: 10px;
+                font-size: 14px;
+                color: #333333;
+            }
+
+                .contact-info ul li i {
+                    color: #e74c3c;
+                    margin-right: 10px;
+                }
+
+        .get-in-touch form input, .get-in-touch form textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #cccccc;
+            border-radius: 4px;
+        }
+
+        .get-in-touch form button {
+            background-color: #e74c3c;
+            color: #ffffff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            .get-in-touch form button:hover {
+                background-color: #c0392b;
+            }
+
+        .back-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #e74c3c;
+            color: #ffffff;
+            padding: 10px;
+            border-radius: 50%;
+            text-align: center;
+            cursor: pointer;
+        }
+
+            .back-to-top i {
+                font-size: 16px;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="contact-info">
+            <h2>THÔNG TIN</h2>
+            <p>
+                Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ về sản phẩm Nike của chúng tôi, hãy liên hệ với KaratShop. Chúng tôi luôn sẵn sàng lắng nghe và đáp ứng nhu cầu của bạn. Bạn có thể gọi điện đến số hotline hoặc gửi email cho chúng tôi. Đội ngũ chăm sóc khách hàng của chúng tôi sẽ phản hồi nhanh chóng và tận tình.
+            </p>
+            <ul>
+                <li><i class="fas fa-map-marker-alt"></i> Địa chỉ: 5B Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam</li>
+                <li><i class="fas fa-phone"></i> Sđt: 0945-724-191</li>
+                <li><i class="fas fa-envelope"></i> Email: lychichuong@gmail.com</li>
+            </ul>
+        </div>
+        <div class="get-in-touch">
+            <h2>GỬI THÔNG TIN CHO CHÚNG TÔI</h2>
+            <p>
+                Nếu bạn có câu hỏi hoặc cần thêm thông tin về các sản phẩm của chúng tôi, hãy gửi thông tin cho KaratShop. Chúng tôi sẽ xem xét và phản hồi bạn trong thời gian sớm nhất. Đội ngũ của chúng tôi luôn sẵn sàng hỗ trợ bạn để đảm bảo bạn có trải nghiệm tốt nhất với sản phẩm Nike của chúng tôi.
+            </p>
+            <form>
+                <input type="text" placeholder="Họ và Tên">
+                <input type="email" placeholder="Email">
+                <textarea placeholder="Chi tiết thông tin"></textarea>
+                <button type="submit">Gửi</button>
+            </form>
+        </div>
+    </div>
+    <div class="back-to-top">
+        <i class="fas fa-arrow-up"></i>
+    </div>
+</body>
+</html>

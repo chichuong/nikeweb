@@ -1,0 +1,210 @@
+﻿<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>KaratShop</title>
+    <link rel="canonical" href="https://www.karatshop.com/">
+    <link rel="shortcut icon" href="~/images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="~/images/apple-touch-icon.png">
+    <link rel="stylesheet" href="~/css/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/css/style.css">
+    <link rel="stylesheet" href="~/css/css/responsive.css">
+    <link rel="stylesheet" href="~/css/css/custom.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+    <style>
+        .product-page {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        .product-container {
+            display: flex;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .product-left-column {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-right: 20px;
+        }
+
+            .product-left-column img {
+                width: 80px;
+                height: 80px;
+                margin-bottom: 10px;
+                border-radius: 10px;
+                cursor: pointer;
+            }
+
+        .product-main-image {
+            width: 600px;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .product-right-column {
+            max-width: 400px;
+            margin-left: 20px;
+        }
+
+        .product-title {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .product-category {
+            color: gray;
+            margin-bottom: 20px;
+        }
+
+        .product-price {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .product-color-options img {
+            width: 80px;
+            height: 80px;
+            margin-right: 10px;
+            border-radius: 10px;
+        }
+
+        .product-size-options {
+            display: flex;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+
+            .product-size-options button {
+                background-color: white;
+                border: 1px solid #ccc;
+                padding: 10px;
+                margin: 5px;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+
+                .product-size-options button:hover {
+                    border-color: black;
+                }
+
+        .product-size-guide {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+            .product-size-guide span:first-child {
+                margin-right: auto;
+            }
+
+            .product-size-guide i {
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+
+
+        .product-add-to-bag {
+            background-color: black;
+            color: white;
+            padding: 15px;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        .product-favourite {
+            background-color: white;
+            color: black;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 30px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+            .product-favourite i {
+                margin-left: 10px;
+            }
+
+        .product-description {
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        function changeMainImage(src) {
+            document.getElementById("main-image").src = src;
+        }
+    </script>
+</head>
+<body class="product-page">
+    <div class="product-container">
+        <div class="product-left-column">
+            <img alt="Main view of the hoodie" src="~/images/NK+ACADEMY+-+FA24.png" onclick="changeMainImage(this.src)" />
+            <img alt="Back view of the hoodie" src="~/images/product/Nikeacademyfootball/back.png" onclick="changeMainImage(this.src)" />
+        </div>
+        <div>
+            <img id="main-image" alt="Main view of the shoe" class="product-main-image" src="~/images/NK+ACADEMY+-+FA24.png" />
+        </div>
+        <div class="product-right-column">
+            <div class="product-title">
+                Nike Academy
+            </div>
+            <div class="product-category">
+                Football
+            </div>
+            <div class="product-price">
+                819,000₫
+            </div>
+            <div class="product-size-guide">
+                <span>Chọn Size</span>
+                <i class="fas fa-ruler"></i>
+                <span><a href="https://www.nike.com/vn/size-fit/footballs" target="_blank" style="text-decoration: none; color: inherit;">Size Guide</a></span>
+            </div>
+
+            <div class="product-size-options">
+                <button>3</button>
+                <button>4</button>
+                <button>5</button>
+            </div>
+            <button class="product-add-to-bag">
+                Thêm vào giỏ hàng
+            </button>
+            <button class="product-favourite">
+                Thích
+                <i class="far fa-heart"></i>
+            </button>
+            <div class="product-description">
+                Nike Academy Football là một sản phẩm bóng đá chất lượng cao, được thiết kế dành cho những cầu thủ trẻ và những người yêu thích môn thể thao vua. Được làm từ chất liệu bền bỉ và có độ đàn hồi tốt, bóng giúp bạn dễ dàng kiểm soát và thực hiện các cú sút chính xác.
+                <br />
+                Với thiết kế kiểu dáng đẹp mắt, Nike Academy Football mang đến sự nổi bật trên sân cỏ với màu sắc tươi sáng và các chi tiết tinh tế. Bóng được trang bị công nghệ tiên tiến giúp tăng cường độ bám và khả năng kiểm soát, giúp người chơi tự tin hơn khi thi đấu.
+                <br />
+                Nike Academy Football là sự lựa chọn hoàn hảo cho các buổi tập luyện, trận đấu giao hữu hoặc các giải đấu chính thức, giúp bạn nâng cao kỹ năng chơi bóng và thể hiện phong cách cá nhân trên sân cỏ.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

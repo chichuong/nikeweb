@@ -1,0 +1,208 @@
+﻿<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>KaratShop</title>
+    <link rel="canonical" href="https://www.karatshop.com/">
+    <link rel="shortcut icon" href="~/images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="~/images/apple-touch-icon.png">
+    <link rel="stylesheet" href="~/css/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/css/style.css">
+    <link rel="stylesheet" href="~/css/css/responsive.css">
+    <link rel="stylesheet" href="~/css/css/custom.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+    <style>
+        .product-page {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        .product-container {
+            display: flex;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .product-left-column {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-right: 20px;
+        }
+
+            .product-left-column img {
+                width: 80px;
+                height: 80px;
+                margin-bottom: 10px;
+                border-radius: 10px;
+                cursor: pointer;
+            }
+
+        .product-main-image {
+            width: 600px;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .product-right-column {
+            max-width: 400px;
+            margin-left: 20px;
+        }
+
+        .product-title {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .product-category {
+            color: gray;
+            margin-bottom: 20px;
+        }
+
+        .product-price {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .product-color-options img {
+            width: 80px;
+            height: 80px;
+            margin-right: 10px;
+            border-radius: 10px;
+        }
+
+        .product-size-options {
+            display: flex;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+
+            .product-size-options button {
+                background-color: white;
+                border: 1px solid #ccc;
+                padding: 10px;
+                margin: 5px;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+
+                .product-size-options button:hover {
+                    border-color: black;
+                }
+
+        .product-size-guide {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+            .product-size-guide span:first-child {
+                margin-right: auto;
+            }
+
+            .product-size-guide i {
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+
+
+        .product-add-to-bag {
+            background-color: black;
+            color: white;
+            padding: 15px;
+            border: none;
+            border-radius: 30px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        .product-favourite {
+            background-color: white;
+            color: black;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 30px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+            .product-favourite i {
+                margin-left: 10px;
+            }
+
+        .product-description {
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        function changeMainImage(src) {
+            document.getElementById("main-image").src = src;
+        }
+    </script>
+</head>
+<body class="product-page">
+    <div class="product-container">
+        <div class="product-left-column">
+            <img alt="Main view of the Waistpack" src="~/images/NK+HERITAGE+S+WAISTPACK.png" onclick="changeMainImage(this.src)" />
+            <img alt="Front view of the Waistpack" src="~/images/product/HeritageWaistpack/front.png" onclick="changeMainImage(this.src)" />
+            <img alt="Side view of the Waistpack" src="~/images/product/HeritageWaistpack/side.png" onclick="changeMainImage(this.src)" />
+            <img alt="Back view of the Waistpack" src="~/images/product/HeritageWaistpack/back.png" onclick="changeMainImage(this.src)" />
+            <img alt="Detail view of the Waistpack" src="~/images/product/HeritageWaistpack/detail.png" onclick="changeMainImage(this.src)" />
+            <img alt="Close view of the Waistpack" src="~/images/product/HeritageWaistpack/close.png" onclick="changeMainImage(this.src)" />
+            <img alt="Fabric view of the Waistpack" src="~/images/product/HeritageWaistpack/fabric.png" onclick="changeMainImage(this.src)" />
+            <img alt="Style-on view of the Waistpack" src="~/images/product/HeritageWaistpack/style.png" onclick="changeMainImage(this.src)" />
+        </div>
+        <div>
+            <img id="main-image" alt="Main view of the Waistpack" class="product-main-image" src="~/images/NK+HERITAGE+S+WAISTPACK.png" />
+        </div>
+        <div class="product-right-column">
+            <div class="product-title">
+                Nike
+            </div>
+            <div class="product-category">
+                Heritage Waistpack
+            </div>
+            <div class="product-price">
+                639,000₫
+            </div>
+            <div class="product-size-guide">
+                <span>One Size</span>
+            </div>
+            <button class="product-add-to-bag">
+                Thêm vào giỏ hàng
+            </button>
+            <button class="product-favourite">
+                Thích
+                <i class="far fa-heart"></i>
+            </button>
+            <div class="product-description">
+                Nike Heritage Waistpack là một món phụ kiện tuyệt vời cho những ai yêu thích sự tiện lợi và phong cách. Được thiết kế với kiểu dáng nhỏ gọn, chiếc túi này mang lại sự thoải mái khi đeo quanh eo hoặc chéo vai. Chất liệu vải bền bỉ và chống thấm nước giúp bảo vệ đồ dùng bên trong khỏi thời tiết xấu.
+                <br />
+                Túi có một ngăn chính rộng rãi, lý tưởng cho việc đựng những vật dụng cần thiết như điện thoại, ví tiền và chìa khóa, cùng với một ngăn nhỏ bên ngoài giúp dễ dàng truy cập vào những đồ vật mà bạn thường xuyên sử dụng. Thiết kế đơn giản với logo Nike nổi bật mang lại vẻ ngoài thể thao và thời trang, phù hợp với nhiều phong cách khác nhau.
+                <br />
+                Nike Heritage Waistpack là lựa chọn hoàn hảo cho những buổi đi dạo, du lịch hay tập luyện, giúp bạn vừa giữ được phong cách thời trang vừa đảm bảo tính tiện dụng trong mọi hoạt động.
+            </div>
+        </div>
+    </div>
+</body>
+</html>

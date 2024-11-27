@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\h\u1ECDc\\lthdt\\testfull\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|d:\\h\u1ECDc\\lthdt\\testfull\\testfull\\controllers\\sitemapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|solutionrelative:testfull\\controllers\\sitemapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|d:\\h\u1ECDc\\lthdt\\testfull\\testfull\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|solutionrelative:testfull\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|d:\\h\u1ECDc\\lthdt\\testfull\\testfull\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|solutionrelative:testfull\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|d:\\h\u1ECDc\\lthdt\\testfull\\testfull\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|solutionrelative:testfull\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|d:\\h\u1ECDc\\lthdt\\testfull\\testfull\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E87BB6D-80C0-4F81-8A7A-70F811BF4B41}|testfull\\testfull.csproj|solutionrelative:testfull\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SiteMapController.cs",
+              "DocumentMoniker": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Controllers\\SiteMapController.cs",
+              "RelativeDocumentMoniker": "testfull\\Controllers\\SiteMapController.cs",
+              "ToolTip": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Controllers\\SiteMapController.cs",
+              "RelativeToolTip": "testfull\\Controllers\\SiteMapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:10:06.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Program.cs",
+              "RelativeDocumentMoniker": "testfull\\Program.cs",
+              "ToolTip": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Program.cs",
+              "RelativeToolTip": "testfull\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:06:35.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "testfull\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "testfull\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAgwGgAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T08:13:37.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "testfull\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "testfull\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAuwLcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T10:16:52.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "testfull\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\h\u1ECDc\\lthdt\\testfull\\testfull\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "testfull\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T07:54:05.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

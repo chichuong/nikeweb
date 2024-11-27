@@ -1,0 +1,165 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Site Metas for SEO -->
+    <title>KaratShop - Thời trang Nike chính hãng</title>
+    <meta name="keywords" content="KaratShop, thời trang, Nike, quần áo, phụ kiện, mua sắm trực tuyến, chính hãng">
+    <meta name="description" content="KaratShop cung cấp quần áo và phụ kiện thời trang Nike chính hãng với phong cách hiện đại, đa dạng mẫu mã.">
+    <meta name="author" content="KaratShop">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://www.karatshop.com/">
+
+    <!-- Open Graph / Facebook Meta Tags -->
+    <meta property="og:title" content="KaratShop - Thời trang Nike chính hãng">
+    <meta property="og:description" content="KaratShop cung cấp quần áo và phụ kiện thời trang Nike chính hãng với phong cách hiện đại, đa dạng mẫu mã.">
+    <meta property="og:url" content="https://www.karatshop.com/">
+    <meta property="og:image" content="https://www.karatshop.com/images/og-image.jpg">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="KaratShop - Thời trang Nike chính hãng">
+    <meta name="twitter:description" content="KaratShop cung cấp quần áo và phụ kiện thời trang Nike chính hãng với phong cách hiện đại, đa dạng mẫu mã.">
+    <meta name="twitter:image" content="https://www.karatshop.com/images/og-image.jpg">
+
+    <!-- Schema Markup for Organization -->
+    <script type="application/ld+json">
+        {
+          "@@context": "https://schema.org",
+          "@@type": "Organization",
+          "name": "KaratShop",
+          "url": "https://www.karatshop.com",
+          "logo": "https://www.karatshop.com/images/logo.png",
+          "sameAs": [
+            "https://www.facebook.com/karatshop",
+            "https://www.instagram.com/karatshop"
+          ],
+          "contactPoint": {
+            "@@type": "ContactPoint",
+            "telephone": "+84-945724191",
+            "contactType": "Customer Service",
+            "areaServed": "VN",
+            "availableLanguage": ["Vietnamese", "English"]
+          }
+        }
+    </script>
+
+    <!-- Icons -->
+    <link rel="shortcut icon" href="~/images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="~/images/apple-touch-icon.png">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="~/css/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/css/style.css">
+    <link rel="stylesheet" href="~/css/css/responsive.css">
+    <link rel="stylesheet" href="~/css/css/custom.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.~/js/js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<style>
+    /* Responsive adjustments */
+    .logo {
+        max-width: 80px; /* Logo size for mobile */
+    }
+
+   .footer-link ul li a {
+    position: relative; /* Đảm bảo vị trí là tương đối */
+}
+
+.footer-link ul li a::before {
+    content: ""; /* Hoặc sử dụng 'none' */
+    display: none; /* Ẩn nội dung */
+}
+
+</style>
+
+<body>
+
+    <!-- Header Section -->
+    <header class="main-header">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-default bootsnav">
+            <div class="container">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                    <img src="~/images/logonike.png" class="logo" alt="KaratShop - Thời trang Nike">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-controls="navbar-menu" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item active"><a class="nav-link" asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="Shop" asp-action="Index">Shop</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="About">Về chúng tôi</a></li>
+                        <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Contact">Liên hệ</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    @RenderBody()
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="footer-main">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="footer-widget">
+                            <h4>Giới thiệu về KaratShop</h4>
+                            <p>Karatshop là cửa hàng chuyên bán quần áo và phụ kiện Nike, cung cấp sản phẩm chính hãng và hiện đại cho khách hàng.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="footer-link">
+                            <h4>Thông tin</h4>
+                            <ul>
+                                <li><a class="nav-link" asp-controller="Home" asp-action="About">Về chúng tôi</a></li>
+                                <li><a asp-controller="Privacy" asp-action="Doitra">Chính sách đổi trả</a></li>
+                                <li><a asp-controller="Privacy" asp-action="Ship">Chính sách giao hàng</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="footer-link-contact">
+                            <h4>Liên hệ</h4>
+                            <ul>
+                                <li><p>5B Đ. Tôn Đức Thắng, Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam</p></li>
+                                <li><p>(+84)945724191</p></li>
+                                <li><p><a href="mailto:lychichuong@gmail.com">lychichuong@gmail.com</a></p></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <p class="footer-company">All Rights Reserved. &copy; 2024 <a href="#">KaratShop</a></p>
+        </div>
+    </footer>
+
+    <a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
+
+    <!-- JavaScript Files -->
+    <script src="~/js/js/jquery-3.2.1.min.js"></script>
+    <script src="~/js/js/popper.min.js"></script>
+    <script src="~/js/js/bootstrap.min.js"></script>
+    <script src="~/js/js/custom.js"></script>
+    @RenderSection("Scripts", required: false)
+
+</body>
+
+</html>

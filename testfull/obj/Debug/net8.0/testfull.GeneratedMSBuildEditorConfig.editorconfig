@@ -1,0 +1,139 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = testfull
+build_property.RootNamespace = testfull
+build_property.ProjectDir = D:\học\lthdt\testfull\testfull\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\học\lthdt\testfull\testfull
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/học/lthdt/testfull/testfull/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Privacy/Doitra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmFjeVxEb2l0cmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Privacy/Ship.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmFjeVxTaGlwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/A1MIDSE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBMU1JRFNFLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/A1S.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBMVMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/ALX.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBTFguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/B1988.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxCMTk4OC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/HeritageWaistpack.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxIZXJpdGFnZVdhaXN0cGFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/JFF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxKRkYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/MOH.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxNT0guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/NA1NNSE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxOQTFOTlNFLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/Nikeacademyfootball.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxOaWtlYWNhZGVteWZvb3RiYWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/NSB.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxOU0IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/NSPF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxOU1BGLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Product/Tatum2Sidewalk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxUYXR1bTJTaWRld2Fsay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/học/lthdt/testfull/testfull/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mz9c9pg1cz
